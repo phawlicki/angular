@@ -1,0 +1,123 @@
+[
+  {
+    "studentLogin": "AdamWaszak102",
+    "taskName": "feature/5MethodsOfSorting",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "AdamWaszak102",
+    "taskName": "feature/Fibbonaci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "AdamWaszak102",
+    "taskName": "feature/fibonacci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "AdamWaszak102",
+    "taskName": "fibonacci",
+    "status": "MERGED_CLOSED"
+  },
+  {
+    "studentLogin": "AdamWaszak102",
+    "taskName": "sieve",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "studentLogin": "DanSzym",
+    "taskName": "feature/5MethodsOfSorting",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "DanSzym",
+    "taskName": "feature/Fibbonaci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "DanSzym",
+    "taskName": "feature/fibonacci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "DanSzym",
+    "taskName": "fibonacci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "DanSzym",
+    "taskName": "sieve",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "JKubicaLedzion",
+    "taskName": "feature/5MethodsOfSorting",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "JKubicaLedzion",
+    "taskName": "feature/Fibbonaci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "JKubicaLedzion",
+    "taskName": "feature/fibonacci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "JKubicaLedzion",
+    "taskName": "fibonacci",
+    "status": "MERGED_CLOSED"
+  },
+  {
+    "studentLogin": "JKubicaLedzion",
+    "taskName": "sieve",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "LukasWojewodzki",
+    "taskName": "feature/5MethodsOfSorting",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "LukasWojewodzki",
+    "taskName": "feature/Fibbonaci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "LukasWojewodzki",
+    "taskName": "feature/fibonacci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "LukasWojewodzki",
+    "taskName": "fibonacci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "LukasWojewodzki",
+    "taskName": "sieve",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "MagdalenaKobus",
+    "taskName": "feature/5MethodsOfSorting",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "MagdalenaKobus",
+    "taskName": "feature/Fibbonaci",
+    "status": "UNKNOWN"
+  },
+  {
+    "studentLogin": "MagdalenaKobus",
+    "taskName": "feature/fibonacci",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "studentLogin": "MagdalenaKobus",
+    "taskName": "fibonacci",
+    "status": "UNKNOWN"
+  }
+]
+
